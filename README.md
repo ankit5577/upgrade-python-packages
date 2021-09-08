@@ -39,7 +39,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This Script loops through downloaded python packages and runs commands `pip install -upgrade {package}` 😼
+This Script loops through downloaded python packages and run command `pip install -upgrade {package}` for all packages. 😼
 
 
 ### Built With
