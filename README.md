@@ -39,7 +39,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This Script loops through downloaded python libraries and runs commands `pip install {library}` 😼
+This Script loops through downloaded python packages and runs commands `pip install -upgrade {package}` 😼
 
 
 ### Built With
