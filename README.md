@@ -91,7 +91,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ankit55771](https://twitter.com/ankit_ak1) - ankit@aiboost.in
+Ankit Kaushal - [@ankit55771](https://twitter.com/ankit_ak1) - ankit@aiboost.in
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
